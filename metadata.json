@@ -1,0 +1,6 @@
+{
+  "name": "Ace Mobile Detailing — Luxury Vehicle, Marine & Aviation Detailing",
+  "description": "Ace Mobile Detailing in Orange Beach & Baldwin County, AL. Fully licensed, bonded, and insured precision detailing for Auto, Boat, RV, Aircraft, Ceramic Coating, and Fleet Washing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
